@@ -18,7 +18,7 @@ You can only pass one tag in the return.
 
 ## Components
 
-react shines because there is something components which let you create your app in pieces and merge them in one file i.e. app.jsx
+React shines because there is something called components which let you create your app in pieces and merge them in one file i.e. app.jsx
 
 You can create components files in the component folder under the src folder
 
