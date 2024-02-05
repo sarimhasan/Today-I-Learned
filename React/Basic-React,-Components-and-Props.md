@@ -4,21 +4,20 @@ There is an app.jsx file which is your main page file like the index.html file.
 You have to write everything in a function.
 
 ```jsx
-function Card() {
-  return (
-    <div className="card">
-      <h1>Card</h1>
-      <p>You can write the card description here</p>
-    </div>
-  );
-}
+function App() {
+    return (
+      <>
+        // You can put all your content in here
+      </>
+    );
+  }
 ```
 
 You can only pass one tag in the return.
 
 ## Components
 
-react shines because there is something components which let you create your app in pieces and merge them in one file i.e. app.jsx
+React shines because there is something called components which let you create your app in pieces and merge them in one file i.e. app.jsx
 
 You can create components files in the component folder under the src folder
 
