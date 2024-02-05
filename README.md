@@ -1,2 +1,6 @@
 # Today I Learned
- This is a repo which includes code which I learned on a particular date. I will try to update it daily if (hopefully) don't procrastinate 😂
+
+## Categories
+- [[https://github.com/sarimhasan/Today-I-Learned/tree/main/React|React]]
+- [[https://github.com/sarimhasan/Today-I-Learned/tree/main/Vite|Vite]]
+and many more coming soon... As soon as I learn them obviously, LOL 😜
