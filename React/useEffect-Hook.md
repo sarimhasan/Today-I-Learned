@@ -1,4 +1,4 @@
-# useEffect Hook in React
+# useEffect Hook
 
 ## Basic Syntax
 

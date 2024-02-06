@@ -1,4 +1,4 @@
-# Hooks and States in React
+# Hooks and States
 
 ## What is a State
 
