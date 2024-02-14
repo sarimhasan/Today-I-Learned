@@ -2,7 +2,7 @@
 
 Definition from the react [website](https://react.dev/learn/responding-to-events):
 
-> [!Important] Definition
+> [!note]
 >
 > Event handlers are your own functions that will be triggered in response to interactions like clicking, hovering, focusing form inputs, and so on.
 
