@@ -6,4 +6,4 @@ Then you might use props.
 
 But as your app grows, and you have a structure like this:
 
-!(https://iili.io/JEi9cOP.png)
+![](https://iili.io/JEi9cOP.png)
