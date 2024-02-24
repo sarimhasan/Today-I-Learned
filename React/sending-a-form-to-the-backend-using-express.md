@@ -20,7 +20,7 @@ import bodyParser from "body-parser";
 
 Then make a simple hello world app using the get and post routes and initialize it on port 3000
 
-follow this: [[How to build an express Server with body-parser]]
+follow this: [How to build an express Server with body-parser](https://github.com/sarimhasan/Today-I-Learned/blob/main/Express/Basic-Express-App-with-body-parser.md)
 
 also add cors as the middleware with body-parser
 

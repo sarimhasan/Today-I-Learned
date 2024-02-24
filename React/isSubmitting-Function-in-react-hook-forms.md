@@ -1,6 +1,6 @@
 # isSubmitting Function and simulating delay in React
 
-How to set up the basic form handling: [[Handling Forms in React|here]]
+How to set up the basic form handling: [here](https://github.com/sarimhasan/Today-I-Learned/blob/main/React/handling-forms-in-React.md)
 
 add the isSubmitting function in the formState
 
