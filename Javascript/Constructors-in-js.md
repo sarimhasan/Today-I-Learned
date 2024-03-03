@@ -1,6 +1,6 @@
 # Constructors in Javascript
 
-More modern and cleaner way to make objects dynamically would be to use [[Classes in Javascript]]
+More modern and cleaner way to make objects dynamically would be to use [Classes in Javascript](https://github.com/sarimhasan/Today-I-Learned/blob/main/Javascript/Classes-in-js.md)
 
 We use JS constructers to create objects easily
 

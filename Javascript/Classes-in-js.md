@@ -1,6 +1,6 @@
 # Classes in Javascript
 
-Classes are a ES6 feature providing a more cleaner and structures way to make objects dynamically in Javascript in contrast to using [[Constructors in Javascript]].
+Classes are a ES6 feature providing a more cleaner and structures way to make objects dynamically in Javascript in contrast to using [Constructors in Javascript](https://github.com/sarimhasan/Today-I-Learned/blob/main/Javascript/Constructors-in-js.md).
 
 First define a class and then its name
 

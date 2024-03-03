@@ -6,7 +6,7 @@ in theory async makes a function return a promise
 
 and await make an async function wait for a promise
 
-So using the previous example of chores from [[Promises in Javascript]]
+So using the previous example of chores from [Promises in Javascript](https://github.com/sarimhasan/Today-I-Learned/blob/main/Javascript/Promises-in-js.md)
 
 ```js
 function walkDog() {

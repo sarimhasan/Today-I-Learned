@@ -70,4 +70,4 @@ walkDog()
   });
 ```
 
-Now if you want to use a more proper way of showing it to the console or do anything with your data, use [[Async and Await in Javascript]]
+Now if you want to use a more proper way of showing it to the console or do anything with your data, use [Async and Await in Javascript](https://github.com/sarimhasan/Today-I-Learned/blob/main/Javascript/Async-and-await-in-js.md)
