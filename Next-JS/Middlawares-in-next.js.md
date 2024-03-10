@@ -1,6 +1,6 @@
 # Middlewares in Express JS
 
-To understand what middlewares are, see the note on Middlewares in express
+To understand what middlewares are, see the note on [Middlewares in express](https://github.com/sarimhasan/Today-I-Learned/blob/main/Next-JS/Middlewares-in-express.md)
 
 for more info: visit [next.js](https://nextjs.org/docs/app/building-your-application/routing/middleware)'s website
 
