@@ -1,6 +1,6 @@
 # UPDATE single value and ADD Columns in SQL
 
-So in the previous note: [[CREATE Table and INSERT data in SQL]], we created a table with 2 products
+So in the previous note: [CREATE Table and INSERT data in SQL](https://github.com/sarimhasan/Today-I-Learned/blob/main/SQL/Create-table-and-add-data-in-sql.md), we created a table with 2 products
 
 1. id = 1, name = "Pen", and price = 1.20
 2. id = 2, name = "Pencil" and price = Null

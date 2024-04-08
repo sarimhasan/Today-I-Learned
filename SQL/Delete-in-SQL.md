@@ -8,7 +8,7 @@ We have this table named as products
 | 2   | Pencil | 0.80  | 12    |
 | 3   | Rubber | 1.00  | 40    |
 
-Here is how you can [[CREATE Table and INSERT data in SQL]]
+Here is how you can [CREATE Table and INSERT data in SQL](https://github.com/sarimhasan/Today-I-Learned/blob/main/SQL/Create-table-and-add-data-in-sql.md)
 
 So what if you want to say that you don't sell pencils anymore
 
